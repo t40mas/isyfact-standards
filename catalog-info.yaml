@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: isyfact-standards
+  annotations:
+    github.com/project-slug: t40mas/isyfact-standards
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
